@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sallesInfo">
+        <item>C201</item>
+        <item>C202</item>
+        <item>C203</item>
+        <item>C204</item>
+        <item>C205</item>
+        <item>C206</item>
+        <item>C214a</item>
+        <item>C214b</item>
+        <item>C216a</item>
+        <item>C216b</item>
+        <item>C301</item>
+        <item>C302</item>
+        <item>C303</item>
+        <item>C304</item>
+        <item>C305</item>
+        <item>C306</item>
+    </string-array>
+</resources>
